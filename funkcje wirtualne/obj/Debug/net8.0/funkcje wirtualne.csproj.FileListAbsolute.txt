@@ -1,0 +1,14 @@
+C:\repos\funkcje wirtualne\bin\Debug\net8.0\funkcje wirtualne.exe
+C:\repos\funkcje wirtualne\bin\Debug\net8.0\funkcje wirtualne.deps.json
+C:\repos\funkcje wirtualne\bin\Debug\net8.0\funkcje wirtualne.runtimeconfig.json
+C:\repos\funkcje wirtualne\bin\Debug\net8.0\funkcje wirtualne.dll
+C:\repos\funkcje wirtualne\bin\Debug\net8.0\funkcje wirtualne.pdb
+C:\repos\funkcje wirtualne\obj\Debug\net8.0\funkcje wirtualne.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\funkcje wirtualne\obj\Debug\net8.0\funkcje wirtualne.AssemblyInfoInputs.cache
+C:\repos\funkcje wirtualne\obj\Debug\net8.0\funkcje wirtualne.AssemblyInfo.cs
+C:\repos\funkcje wirtualne\obj\Debug\net8.0\funkcje wirtualne.csproj.CoreCompileInputs.cache
+C:\repos\funkcje wirtualne\obj\Debug\net8.0\funkcje wirtualne.dll
+C:\repos\funkcje wirtualne\obj\Debug\net8.0\refint\funkcje wirtualne.dll
+C:\repos\funkcje wirtualne\obj\Debug\net8.0\funkcje wirtualne.pdb
+C:\repos\funkcje wirtualne\obj\Debug\net8.0\funkcje wirtualne.genruntimeconfig.cache
+C:\repos\funkcje wirtualne\obj\Debug\net8.0\ref\funkcje wirtualne.dll
